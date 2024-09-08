@@ -19,7 +19,6 @@ El grupo AVDV3-219 (Análisis y Visualización de Datos) está compuesto por los
 
 ## Recursos:
 - [Fuentes de datos](https://drive.google.com/drive/folders/1ti_Yhd47B2mOxC1ohcfCfoYvkRcS77YB)
-- [Acceso a repositorio vista nbviewer](https://nbviewer.org/github/wespitia9/AVDV2-47/tree/main/)
 
 ## Módulo 1: Técnicas Avanzadas de Análisis de Datos
 -	Minería de datos y descubrimiento de patrones.
